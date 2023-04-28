@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/monitor_f23/static/css/main.1057ff73.css",
-    "main.js": "/monitor_f23/static/js/main.f3fc3af7.js",
-    "static/js/27.32c3460e.chunk.js": "/monitor_f23/static/js/27.32c3460e.chunk.js",
+    "main.css": "/monitor_f23/static/css/main.c2fd0981.css",
+    "main.js": "/monitor_f23/static/js/main.9e0dfb67.js",
+    "static/js/27.903d7c83.chunk.js": "/monitor_f23/static/js/27.903d7c83.chunk.js",
+    "static/media/dp_ATW.mp3": "/monitor_f23/static/media/dp_ATW.fdb32cae097557010566.mp3",
+    "static/media/bt_smell.mp3": "/monitor_f23/static/media/bt_smell.75674c8f307c558d11bd.mp3",
+    "static/media/rickroll.mp3": "/monitor_f23/static/media/rickroll.fa13b0d1a0941e64828f.mp3",
     "static/media/fa-solid-900.ttf": "/monitor_f23/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/pepe-dancing.gif": "/monitor_f23/static/media/pepe-dancing.daa6d892814838ccd42d.gif",
     "static/media/fa-brands-400.ttf": "/monitor_f23/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/monitor_f23/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/fa-brands-400.woff2": "/monitor_f23/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
@@ -16,7 +20,7 @@
     "index.html": "/monitor_f23/index.html"
   },
   "entrypoints": [
-    "static/css/main.1057ff73.css",
-    "static/js/main.f3fc3af7.js"
+    "static/css/main.c2fd0981.css",
+    "static/js/main.9e0dfb67.js"
   ]
 }
